@@ -1,10 +1,10 @@
 # App Launcher
 Why would I want this? 
 
-In my case, I needed a program to launch Windows 10 apps like Groove music. This program goes hand in hand with https://github.com/GMR516/steamlauncher
-
+In my case, I needed a program to launch Windows 10 apps like Groove music. This program goes with 
+https://github.com/gen3vra/steamlauncher
 And
-https://gmr516.github.io/customnativetile/
+https://github.com/gen3vra/customnativetile
 
 # How do I use this?
 Simply download the release, paste the exact link of the program you want to launch (in my case I created a shortcut of Groove music, and launch that shortcut with this app).
